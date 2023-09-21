@@ -1,0 +1,16 @@
+html, body{
+    margin:20px;
+    height:100%;
+    font-family: monospace;
+}
+.content{
+    display:flex;
+    height:100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#hello-text{
+    font-size:5rem;
+}
